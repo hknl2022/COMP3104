@@ -1,1 +1,3 @@
-# COMP3104
+# COMP3104 Developer operations 
+Github action script added
+
