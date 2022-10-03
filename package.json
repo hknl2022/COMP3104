@@ -1,0 +1,20 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "Github action script added",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: no test created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hknl2022/COMP3104.git"
+  },
+  "keywords": [],
+  "author": "hknl2022",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hknl2022/COMP3104/issues"
+  },
+  "homepage": "https://github.com/hknl2022/COMP3104#readme"
+}
